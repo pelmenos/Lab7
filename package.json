@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "rm -rf build && npm run build",
-    "deploy": "gh-page -d build"
+    "deploy": "gh-pages -d build"
   },
   "homepage": "https://pelmenos.github.io/Lab7",
   "eslintConfig": {
